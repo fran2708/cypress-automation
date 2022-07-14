@@ -1,0 +1,28 @@
+{
+  "name": "cypress-automation",
+  "version": "1.0.0",
+  "description": "automation with cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fran2708/cypress-automation.git"
+  },
+  "keywords": [
+    "testing",
+    "cypress",
+    "automation"
+  ],
+  "author": "fran2708",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fran2708/cypress-automation/issues"
+  },
+  "homepage": "https://github.com/fran2708/cypress-automation#readme",
+  "dependencies": {
+    "cypress": "^10.3.0",
+    "prettier": "^2.7.1"
+  }
+}
