@@ -4,7 +4,8 @@
   "description": "automation with cypress",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
   },
   "repository": {
     "type": "git",
@@ -24,5 +25,8 @@
   "dependencies": {
     "cypress": "^10.3.0",
     "prettier": "^2.7.1"
+  },
+  "devDependencies": {
+    "typescript": "^4.7.4"
   }
 }
